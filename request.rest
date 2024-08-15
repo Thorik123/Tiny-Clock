@@ -1,0 +1,1 @@
+GET http://Thorik123.github.io/update.json
